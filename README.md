@@ -1,1 +1,1 @@
-A Git project done from an Ubuntu VM in Vagrant.
+The first README
